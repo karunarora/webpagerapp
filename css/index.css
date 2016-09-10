@@ -1,0 +1,7 @@
+td.green1{background-color:#66ff66}
+td:active{background-color:#66ff66;}
+td:visited{background-color:#66ff66;}
+td:hover{background-color:#66ff66;}
+a{text-decoration:none;}
+a:hover{color:black;}
+a.work:hover{color:white;}
